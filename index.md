@@ -34,12 +34,23 @@ Provide a brief and inspiring description of what your new and innovative intera
 
 ### Functionality
 
-Also say a few words about the intended functionality of your system (function-side of the taxonomy
+Also say a few words about the intended functionality of your system (function-side of the taxonomy)
+Say something about what your system aims to accomplish.
+
+Which Sport Domain do you wish to focus on?
+Which Application Scope do you wish to tailor your concept to?
+What will the Training Experience look like? – Who are your users? / What are your outcomes? / What is the nature of the task?
+Which Theoretical Perspective fits your concept?
 
 ### Technical Details
 
-and about the technical details of your system (form-side of the taxonomy).
+Say something about the technical details of the system. How does it work? And above all; why does it work the way it works?
+
+When and Where will your concept be applied?
+What will your concept look like? – In terms of exercise modification, behavior steering, presentation, etc?
+How will you provide feedback (if any) to your users? – If not, explain why not.
+How will your concept be integrated in practice?
 
 ### Conclusion
 
-Close of with a strong and convincing message that would activate potential investors to take an interest in your work
+What makes your concept stand out? Why is it unique?
