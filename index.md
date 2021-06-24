@@ -28,10 +28,18 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Innovation
 
-will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TimoLempers/Taekwon-dont-s/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Provide a brief and inspiring description of what your new and innovative interactive sports system will doand look like. Make sure to touch upon the problem statement (why is it relevant; what is your unique selling point?)
 
-### Support or Contact
+### Functionality
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Also say a few words about the intended functionality of your system (function-side of the taxonomy
+
+### Technical Details
+
+and about the technical details of your system (form-side of the taxonomy).
+
+### Conclusion
+
+Close of with a strong and convincing message that would activate potential investors to take an interest in your work
